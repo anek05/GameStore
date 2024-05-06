@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VSYyFzD9BIAVFJj/i21vw1wDYz8Y7UFlZrscOMoqbJWJJpMRfeq8qW0f9/e9LZzO7Mc4XmJw3TfKzTNf2jj2ug==",
+  "dgSpecHash": "jT5dy1Z3O15lFIslWJAA6GGqxp+V9j2wm7AmZM87Nyv0HvYYEtAxI2l2jVg7REBmyXRfztZO8BWxrgYEpqApqg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\GameStore\\Gamestore.Frontend\\GameStore.Frontend.csproj",
+  "projectFilePath": "C:\\Project\\GameStore\\GameStore.Frontend\\GameStore.Frontend.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
